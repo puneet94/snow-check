@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>global.global_si_tes</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>global_si_tes</name>
+        <script><![CDATA[var global_si_tes = Class.create();
+global_si_tes.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+    type: 'global_si_tes',
+	check:function(){
+		gs.info("hello");
+	}
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>puneet</sys_created_by>
+        <sys_created_on>2022-08-16 00:53:01</sys_created_on>
+        <sys_id>ded05952071555104808f6fd7c1ed01e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_si_tes</sys_name>
+        <sys_package display_value="check_global" source="2770dd12071555104808f6fd7c1ed0f4">2770dd12071555104808f6fd7c1ed0f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="check_global">2770dd12071555104808f6fd7c1ed0f4</sys_scope>
+        <sys_update_name>sys_script_include_ded05952071555104808f6fd7c1ed01e</sys_update_name>
+        <sys_updated_by>puneet</sys_updated_by>
+        <sys_updated_on>2022-08-16 00:53:01</sys_updated_on>
+    </sys_script_include>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Incident Item Stream">bba05552071555104808f6fd7c1ed05b</item_stream>
+        <segment display_value="Incident Item Stream Segment">33a05552071555104808f6fd7c1ed05b</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>puneet</sys_created_by>
+        <sys_created_on>2022-08-16 00:51:33</sys_created_on>
+        <sys_id>b3a05552071555104808f6fd7c1ed05c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="check_global" source="2770dd12071555104808f6fd7c1ed0f4">2770dd12071555104808f6fd7c1ed0f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="check_global">2770dd12071555104808f6fd7c1ed0f4</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_b3a05552071555104808f6fd7c1ed05c</sys_update_name>
+        <sys_updated_by>puneet</sys_updated_by>
+        <sys_updated_on>2022-08-16 00:51:33</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>
