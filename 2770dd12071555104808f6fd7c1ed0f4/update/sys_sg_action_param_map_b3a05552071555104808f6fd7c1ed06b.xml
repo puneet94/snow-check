@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Incident)">b3a05552071555104808f6fd7c1ed066</button>
+        <item_parameter display_value="Incident description">3fa05552071555104808f6fd7c1ed063</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>puneet</sys_created_by>
+        <sys_created_on>2022-08-16 00:51:33</sys_created_on>
+        <sys_id>b3a05552071555104808f6fd7c1ed06b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3fa05552071555104808f6fd7c1ed063</sys_name>
+        <sys_package display_value="check_global" source="2770dd12071555104808f6fd7c1ed0f4">2770dd12071555104808f6fd7c1ed0f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="check_global">2770dd12071555104808f6fd7c1ed0f4</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_b3a05552071555104808f6fd7c1ed06b</sys_update_name>
+        <sys_updated_by>puneet</sys_updated_by>
+        <sys_updated_on>2022-08-16 00:51:33</sys_updated_on>
+        <ui_parameter display_value="Description">77a05552071555104808f6fd7c1ed068</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (Incident)">7ba05552071555104808f6fd7c1ed073</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit (Incident)</name>
+        <order/>
+        <parent>f3a05552071555104808f6fd7c1ed059</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>puneet</sys_created_by>
+        <sys_created_on>2022-08-16 00:51:34</sys_created_on>
+        <sys_id>b7a05552071555104808f6fd7c1ed079</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (Incident)</sys_name>
+        <sys_package display_value="check_global" source="2770dd12071555104808f6fd7c1ed0f4">2770dd12071555104808f6fd7c1ed0f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="check_global">2770dd12071555104808f6fd7c1ed0f4</sys_scope>
+        <sys_update_name>sys_sg_button_instance_b7a05552071555104808f6fd7c1ed079</sys_update_name>
+        <sys_updated_by>puneet</sys_updated_by>
+        <sys_updated_on>2022-08-16 00:51:34</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=b7a05552071555104808f6fd7c1ed079"/>
+</record_update>
